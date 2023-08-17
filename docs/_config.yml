@@ -12,8 +12,8 @@ permalink: /:title/
 
 navigation:
   - title: Home
-    url: /
+    url: /docs
   - title: Smart-Taka
-    url: /pages/SMART_TAKA.md
+    url: /docs/pages/SMART_TAKA.md
   - title: DashyB
-    url: /pages/DASHYB.md
+    url: /docs/pages/DASHYB.md
