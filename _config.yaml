@@ -1,0 +1,17 @@
+theme: jekyll-theme-cayman
+title: RIFAZ SOLUTIONS
+description: Find revolutionary products for your business case.
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude: ['README.md', '_config.yml']
+
+permalink: /:title/
+
+navigation:
+  - title: Smart-Taka
+    url: /SMART_TAKA.md
+  - title: DashyB
+    url: /DASHYB.md
