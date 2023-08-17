@@ -2,7 +2,7 @@
  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 <p align="center" >
-    <img src="Documents/smart-taka logo.png" alt="smart-taka logo" />
+    <img src="smart-taka logo.png" alt="smart-taka logo" />
 </p>
 
 ## Description
