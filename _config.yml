@@ -11,6 +11,8 @@ exclude: ['README.md', '_config.yml']
 permalink: /:title/
 
 navigation:
+  - title: Home
+    url: /
   - title: Smart-Taka
     url: /pages/SMART_TAKA.md
   - title: DashyB
