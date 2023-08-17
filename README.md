@@ -18,15 +18,15 @@ Smart-Taka is a mobile app aimed at promoting efficient waste management and enc
 ## 📷 Screenshots
 
 <div style="display: flex;">
-    <img src="Documents/get started screenshot.jpg" alt="Image 1" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
-    <img src="Documents/sign in screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
-    <img src="Documents/location screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
+    <img src="get started screenshot.jpg" alt="Image 1" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
+    <img src="sign in screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
+    <img src="location screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
 </div>
 
 <div style="display: flex;">
-    <img src="Documents/dashboard 1 screenshot.jpg" alt="Image 1" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
-    <img src="Documents/dashboard 2 screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
-    <img src="Documents/ticket screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
+    <img src="dashboard 1 screenshot.jpg" alt="Image 1" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
+    <img src="dashboard 2 screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
+    <img src="ticket screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
 </div>
 
 
