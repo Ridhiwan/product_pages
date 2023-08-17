@@ -12,7 +12,7 @@ permalink: /:title/
 
 url: https://ridhiwan.github.io
 
-baseurl: /product_pages/docs
+baseurl: /product_pages/
 
 navigation:
   - title: Home
