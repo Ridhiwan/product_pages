@@ -5,13 +5,9 @@ description: Find revolutionary products for your business case.
 plugins:
   - jekyll-remote-theme
 
-exclude: ['README.md', '_config.yml']
-
 permalink: /:title/
 
 url: https://ridhiwan.github.io
-
-baseurl: /product_pages/
 
 navigation:
   - title: Home
