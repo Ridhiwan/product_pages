@@ -2,7 +2,7 @@
  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 <p align="center" >
-    <img src="smart-taka logo.png" alt="smart-taka logo" />
+    <img src="../smart-taka_logo.png" alt="smart-taka logo" />
 </p>
 
 ## Description
@@ -18,15 +18,15 @@ Smart-Taka is a mobile app aimed at promoting efficient waste management and enc
 ## 📷 Screenshots
 
 <div style="display: flex;">
-    <img src="get started screenshot.jpg" alt="Image 1" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
-    <img src="sign in screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
-    <img src="location screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
+    <img src="../get_started_screenshot.jpg" alt="Image 1" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
+    <img src="../sign_in_screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
+    <img src="../location_screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
 </div>
 
 <div style="display: flex;">
-    <img src="dashboard 1 screenshot.jpg" alt="Image 1" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
-    <img src="dashboard 2 screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
-    <img src="ticket screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
+    <img src="../dashboard_1_screenshot.jpg" alt="Image 1" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
+    <img src="../dashboard_2_screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
+    <img src="../ticket_screenshot.jpg" alt="Image 2" style="flex: 1; max-width: 50%; height:500px; margin: 10px;">
 </div>
 
 

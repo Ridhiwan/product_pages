@@ -2,7 +2,7 @@
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 <div align="center">
-  <img src="DashyB_logo_cropped.gif" alt="DashyB Logo" width="500">
+  <img src="../DashyB_logo_cropped.gif" alt="DashyB Logo" width="500">
 </div>
 
 ## Welcome to DashyB! 🎉 
@@ -54,13 +54,13 @@ In the future, users will be able to create their own analyses.
 
 Screenshots of the program below:
 <div style="display: flex;">
-    <img src="dashyb_start_page.jpeg" alt="Image 1" style="flex: 1; max-width: 50%; margin: 10px;">
-    <img src="dashyb_select_analysis_page.png" alt="Image 2" style="flex: 1; max-width: 50%; margin: 10px;">
+    <img src="../dashyb_start_page.jpeg" alt="Image 1" style="flex: 1; max-width: 50%; margin: 10px;">
+    <img src="../dashyb_select_analysis_page.png" alt="Image 2" style="flex: 1; max-width: 50%; margin: 10px;">
 </div>
 
 <div style="display: flex;">
-    <img src="dashyb_upload_file_page.png" alt="Image 1" style="flex: 1; max-width: 50%; margin: 10px;">
-    <img src="dashyb_analysis_display_page.png" alt="Image 2" style="flex: 1; max-width: 50%; margin: 10px;">
+    <img src="../dashyb_upload_file_page.png" alt="Image 1" style="flex: 1; max-width: 50%; margin: 10px;">
+    <img src="../dashyb_analysis_display_page.png" alt="Image 2" style="flex: 1; max-width: 50%; margin: 10px;">
 </div>
 
 ## License 📝

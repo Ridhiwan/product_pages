@@ -12,6 +12,6 @@ permalink: /:title/
 
 navigation:
   - title: Smart-Taka
-    url: /SMART_TAKA.md
+    url: /pages/SMART_TAKA.md
   - title: DashyB
-    url: /DASHYB.md
+    url: /pages/DASHYB.md
