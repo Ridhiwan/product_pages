@@ -5,11 +5,9 @@ description: Find revolutionary products for your business case.
 plugins:
   - jekyll-remote-theme
 
-permalink: /:title/
-
 url: https://ridhiwan.github.io
 
-navigation:
+nav:
   - title: Home
     url: /docs
   - title: Smart-Taka
