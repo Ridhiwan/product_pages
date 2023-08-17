@@ -7,10 +7,3 @@ plugins:
 
 url: https://ridhiwan.github.io
 
-nav:
-  - title: Home
-    url: /docs
-  - title: Smart-Taka
-    url: /docs/pages/SMART_TAKA.md
-  - title: DashyB
-    url: /docs/pages/DASHYB.md
