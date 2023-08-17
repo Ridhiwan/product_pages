@@ -10,7 +10,9 @@ exclude: ['README.md', '_config.yml']
 
 permalink: /:title/
 
-baseurl: /product_pages
+url: https://ridhiwan.github.io
+
+baseurl: /product_pages/docs
 
 navigation:
   - title: Home
