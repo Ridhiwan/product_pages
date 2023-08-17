@@ -10,6 +10,8 @@ exclude: ['README.md', '_config.yml']
 
 permalink: /:title/
 
+baseurl: /product_pages
+
 navigation:
   - title: Home
     url: /docs
