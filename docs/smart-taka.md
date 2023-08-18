@@ -8,6 +8,12 @@
 ## Description
 Smart-Taka is a mobile app aimed at promoting efficient waste management and encouraging eco-friendly practices. The app provides users with a scheduler that informs waste collectors when to pick up the trash at their location. The trash must be separated into different categories for easier recycling.
 
+<p align="center" >
+    <a href="https://www.amazon.com/dp/B0CCS9GQ8T/ref=apps_sf_sta">
+        <img src="assets/amazon-appstore-badge-english-black.png" alt="smart-taka logo" style="flex: 1; max-width: 20%;"/>
+    </a>
+</p>
+
 ## 🌟 Features
 - Add your custom trash pick up location, preferably an accessible location.
 - Choose a certified garbage collecting vendor of your choice.
