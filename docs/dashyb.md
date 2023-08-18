@@ -52,7 +52,7 @@ In the future, users will be able to create their own analyses.
 
 ## Screenshots 📷
 
-Screenshots of the program below:
+Screenshots of the software below:
 <div style="display: flex;">
     <img src="assets/dashyb_start_page.jpeg" alt="Image 1" style="flex: 1; max-width: 50%; margin: 10px;">
     <img src="assets/dashyb_select_analysis_page.png" alt="Image 2" style="flex: 1; max-width: 50%; margin: 10px;">
