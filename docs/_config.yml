@@ -4,6 +4,3 @@ description: Find revolutionary products for your business case.
 
 plugins:
   - jekyll-remote-theme
-
-url: https://ridhiwan.github.io
-
