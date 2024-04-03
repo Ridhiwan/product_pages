@@ -39,7 +39,7 @@ jobs:
           ###### End of Repository/Build Configurations ######
       - name: Build with Jekyll
         if: always()
-        run: bundle exec jekyll build
+        run: jekyll build
       - name: Debug
         if: always()
         run: |
