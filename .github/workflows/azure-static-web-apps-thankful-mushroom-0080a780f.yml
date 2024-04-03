@@ -39,7 +39,9 @@ jobs:
           ###### End of Repository/Build Configurations ######
       - name: Build with Jekyll
         if: always()
-        run: jekyll build
+        run: |
+          gem which jekyll
+          jekyll -v
       - name: Debug
         if: always()
         run: |
