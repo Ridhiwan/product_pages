@@ -40,7 +40,7 @@ jobs:
       - name: Build with Jekyll
         if: always()
         run: |
-          gem install jekyll
+          sudo gem install jekyll
           jekyll -v
       - name: Debug
         if: always()
