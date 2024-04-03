@@ -19,14 +19,14 @@ Developed by Ridhiwan Mseya, a passionate advocate for climate change mitigation
     background-color: #4CAF50;
     border: none;
     border-radius: 15px;
-    box-shadow: 0 9px #999;
+    box-shadow: 0 1px #999;
 }
 
 .button:hover {background-color: #3e8e41}
 
 .button:active {
     background-color: #3e8e41;
-    box-shadow: 0 5px #666;
+    box-shadow: 0 1px #666;
     transform: translateY(4px);
 }
 </style>
