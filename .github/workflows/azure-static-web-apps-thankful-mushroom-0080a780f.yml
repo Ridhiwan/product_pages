@@ -40,8 +40,9 @@ jobs:
       - name: Build with Jekyll
         if: always()
         run: |
+          sudo gem install bundler:2.4.22
           sudo gem install jekyll
-          jekyll -v
+          bundle exec jekyll build 
       - name: Debug
         if: always()
         run: |
