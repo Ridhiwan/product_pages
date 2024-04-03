@@ -2,10 +2,6 @@ remote_theme: pages-themes/hacker@v0.2.0
 title: SMART-TAKA APP
 description: Climate mitigation through waste management.
 
-plugins:
- - jekyll-feed
- - jekyll-sitemap
-
 # Theme settings
 minima:
  skin: default # "default", "dark", or "dark-dimmed"
