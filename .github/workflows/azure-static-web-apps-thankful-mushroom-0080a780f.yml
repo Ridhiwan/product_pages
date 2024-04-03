@@ -43,7 +43,7 @@ jobs:
           sudo rm Gemfile.lock
           sudo gem install bundler:2.4.22
           sudo gem install jekyll
-          bundle exec jekyll build 
+          sudo bundle exec jekyll build 
       - name: Debug
         if: always()
         run: |
