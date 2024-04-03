@@ -23,7 +23,7 @@ jobs:
         uses: natescherer/markdown-to-html-with-github-style-action@v1.1.0
         with:
           path: index.md
-          outputpath: index.html
+          outputpath: ./
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
