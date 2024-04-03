@@ -40,7 +40,7 @@ jobs:
       - name: Build with Jekyll
         if: always()
         run: |
-          gem which jekyll
+          gem install jekyll
           jekyll -v
       - name: Debug
         if: always()
