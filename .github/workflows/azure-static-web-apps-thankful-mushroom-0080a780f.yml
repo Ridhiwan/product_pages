@@ -40,6 +40,7 @@ jobs:
       - name: Build with Jekyll
         if: always()
         run: |
+          sudo rm Gemfile.lock
           sudo gem install bundler:2.4.22
           sudo gem install jekyll
           bundle exec jekyll build 
