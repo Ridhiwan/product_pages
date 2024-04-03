@@ -33,6 +33,7 @@ jobs:
           output_location: "_site" # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
       - name: Debug
+        if: always()
         run: ls -la _site
 
   close_pull_request_job:
