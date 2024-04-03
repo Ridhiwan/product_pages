@@ -1,6 +1,6 @@
 remote_theme: pages-themes/hacker@v0.2.0
-title: RIFAZ SOLUTIONS
-description: Find revolutionary products for your business case.
+title: SMART-TAKA APP
+description: Climate mitigation through waste management.
 
 plugins:
   - jekyll-remote-theme
