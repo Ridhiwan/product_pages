@@ -4,7 +4,7 @@ Smart-Taka is a groundbreaking mobile application designed to revolutionize wast
 
 Developed by Ridhiwan Mseya, a passionate advocate for climate change mitigation and the promotion of a green and blue economy, Smart-Taka is poised to make a significant impact on Tanzania's waste management landscape. By leveraging technology to streamline waste collection and recycling, Smart-Taka aims to contribute to the reduction of environmental pollution and the promotion of a sustainable future.
 
-<a href="./index.md" class="button">View Overview</a>
+<a href="./smart-taka.md" class="button">View Overview</a>
 
 <style>
 .button {
